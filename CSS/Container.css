@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    width: 90%;
+    margin: auto;
+}
+.container div {
+    border: 1px solid red;
+    width: 22.5%;
+    height: 250px;
+}
